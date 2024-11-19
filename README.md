@@ -1,6 +1,6 @@
 ## Hi there 👋
 ##Mis contribuciones
-<img src="https://raw.githubusercontent.com/OctavioFloG/OctavioFloG/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OctavioFloG/OctavioFloG/snake.svg" alt="Snake animation" />
 
 ###
 <!--
