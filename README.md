@@ -1,4 +1,3 @@
-## 👋 Bienvenido a mi perfil 👋
 <div align="center">
   <div align="center">
     <img src="banner.svg" alt="my_banner">
