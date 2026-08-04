@@ -11,8 +11,11 @@
 </div>
   -->
 <div align="center">
+
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=OctavioFloG&show_icons=true&theme=transparent)
+
 </div>
+
 ###
 <div align="center">
 🎵 Musica que me gusta escuchar 🎵
